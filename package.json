@@ -1,0 +1,11 @@
+{
+  "name": "eslint-configuration-example",
+  "version": "1.0.0",
+  "description": "This project is a configuration example for ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Mollericon",
+  "license": "ISC"
+}
